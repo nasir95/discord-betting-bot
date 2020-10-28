@@ -1,6 +1,5 @@
 const Discord = require("discord.js");
 const client = new Discord.Client();
-const token = require("./token");
 const axios = require("axios");
 
 require("dotenv").config();
